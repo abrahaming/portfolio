@@ -1,6 +1,8 @@
 # portfolio
 Ceci est le repositoire du code source de mon projet personnel intitulé "Portfolio"
 
-## Liens utiles
-http://badji.ct.ws
+## Github repositoire
 https://github.com/abrahaming/portfolio
+
+## Demo website
+http://badji.ct.ws
